@@ -1,0 +1,7 @@
+{
+  "name": "alexa-state-law-monitor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Glydewell Burdick <glydewellb@gmail.com>",
+  "license": "MIT"
+}
