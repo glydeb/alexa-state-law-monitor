@@ -9,7 +9,6 @@ const tempFeed =     [
         "updateDate": new Date().toISOString(),
         "titleText": "Kraft test update",
         "mainText": "Larry Kraft is your state representative, elected to represent state district 46A in the 2022 election that established the DFL trifecta currently in power in Minnesota.",
-        "streamUrl": "",
         "redirectionUrl": "https://www.house.mn.gov/members/profile/15619"
     }
 ];
